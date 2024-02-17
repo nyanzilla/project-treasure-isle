@@ -31,6 +31,12 @@ http://iptvtree.net:8080/live/F26646/f950f250/299956.m3u8
 http://iptvtree.net:8080/live/F26646/f950f250/225357.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/798585b4bb995e90da33e9e1481ac348.png" group-title="Philippines",CNN Philippines
 http://iptvtree.net:8080/live/F26646/f950f250/144855.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/cnn.us.png" group-title="News" tvg-id="cnn.us" tvg-name="cnn.us", CNN US
+https://tv4.live/api/stream/Rominskimark66@gmail.com/518048/livetv.epg/cnn.us.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/msnbc.usa.us.png" group-title="News" tvg-id="msnbc.usa.us" tvg-name="msnbc.usa.us", MSNBC US
+https://tv4.live/api/stream/Rominskimark66@gmail.com/518048/livetv.epg/msnbc.usa.us.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/nbc.news.now.us.png" group-title="News" tvg-id="nbc.news.now.us" tvg-name="nbc.news.now.us", NBC News Now (US)
+https://tv4.live/api/stream/Rominskimark66@gmail.com/518048/livetv.epg/nbc.news.now.us.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crime+ Investigation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/cef6f50462b01da55c9f19ece9a618f7.png" group-title="Philippines",Crime+ Investigation
 http://iptvtree.net:8080/live/F26646/f950f250/170004.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00cc418921399e9b49aac69a44cf2357.png" group-title="Philippines",Disney Channel
@@ -101,8 +107,6 @@ http://iptvtree.net:8080/live/F26646/f950f250/299945.m3u8
 http://iptvtree.net:8080/live/F26646/f950f250/144882.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TFC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/85c9b1c6344b0bcfa1fb76b21cb8a376.png" group-title="Philippines",TFC
 http://iptvtree.net:8080/live/F26646/f950f250/121795.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TFC Guam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/ac64bf94ea4505cd0f2f6539ebd516e4.png" group-title="Philippines",TFC Guam
-http://iptvtree.net:8080/live/F26646/f950f250/299966.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thrill" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-01/7b4777a1db669ace23dc40eb7423774c.png" group-title="Philippines",Thrill
 http://iptvtree.net:8080/live/F26646/f950f250/144888.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/da1bef7ad90b7af523080f303903ee17.png" group-title="Philippines",TLC
@@ -135,3 +139,15 @@ http://iptvtree.net:8080/live/F26646/f950f250/2295.m3u8
 http://iptvtree.net:8080/live/F26646/f950f250/150747.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Honolulu Hawaii KITV DT 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/491c9952c288ba7e0c1eb827605c79a3.png" group-title="USA ➾ News",Honolulu Hawaii KITV DT 2
 http://iptvtree.net:8080/live/F26646/f950f250/198115.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/cbs.kpix.san.francisco.ca.us.png" group-title="US Local" tvg-id="cbs.kpix.san.francisco.ca.us" tvg-name="cbs.kpix.san.francisco.ca.us", CBS (KPIX) San Francisco CA
+https://tv4.live/api/stream/Rominskimark66@gmail.com/518048/livetv.epg/cbs.kpix.san.francisco.ca.us.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/fox.ktvu.san.francisco.ca.us.png" group-title="US Local" tvg-id="fox.ktvu.san.francisco.ca.us" tvg-name="fox.ktvu.san.francisco.ca.us", FOX (KTVU) San Francisco CA
+https://tv4.live/api/stream/Rominskimark66@gmail.com/518048/livetv.epg/fox.ktvu.san.francisco.ca.us.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/nbc.kntv.san.francisco.ca.us.png" group-title="US Local" tvg-id="nbc.kntv.san.francisco.ca.us" tvg-name="nbc.kntv.san.francisco.ca.us", NBC (KNTV) San Francisco CA
+https://tv4.live/api/stream/Rominskimark66@gmail.com/518048/livetv.epg/nbc.kntv.san.francisco.ca.us.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/cbs.kgmb.honolulu.hi.us.png" group-title="US Local" tvg-id="cbs.kgmb.honolulu.hi.us" tvg-name="cbs.kgmb.honolulu.hi.us", CBS (KGMB) Honolulu HI
+https://tv4.live/api/stream/Rominskimark66@gmail.com/518048/livetv.epg/cbs.kgmb.honolulu.hi.us.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/fox.khon.honolulu.hi.us.png" group-title="US Local" tvg-id="fox.khon.honolulu.hi.us" tvg-name="fox.khon.honolulu.hi.us", FOX (KHON) Honolulu HI
+https://tv4.live/api/stream/Rominskimark66@gmail.com/518048/livetv.epg/fox.khon.honolulu.hi.us.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/nbc.khnl.honolulu.hi.us.png" group-title="US Local" tvg-id="nbc.khnl.honolulu.hi.us" tvg-name="nbc.khnl.honolulu.hi.us", NBC (KHNL) Honolulu HI
+https://tv4.live/api/stream/Rominskimark66@gmail.com/518048/livetv.epg/nbc.khnl.honolulu.hi.us.m3u8
