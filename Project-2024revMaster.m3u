@@ -139,15 +139,3 @@ http://iptvtree.net:8080/live/F26646/f950f250/2295.m3u8
 http://iptvtree.net:8080/live/F26646/f950f250/150747.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Honolulu Hawaii KITV DT 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/491c9952c288ba7e0c1eb827605c79a3.png" group-title="USA ➾ News",Honolulu Hawaii KITV DT 2
 http://iptvtree.net:8080/live/F26646/f950f250/198115.m3u8
-#EXTINF:-1 tvg-logo="https://media.tv4.live/cbs.kpix.san.francisco.ca.us.png" group-title="US Local" tvg-id="cbs.kpix.san.francisco.ca.us" tvg-name="cbs.kpix.san.francisco.ca.us", CBS (KPIX) San Francisco CA
-https://tv4.live/api/stream/Rominskimark66@gmail.com/518048/livetv.epg/cbs.kpix.san.francisco.ca.us.m3u8
-#EXTINF:-1 tvg-logo="https://media.tv4.live/fox.ktvu.san.francisco.ca.us.png" group-title="US Local" tvg-id="fox.ktvu.san.francisco.ca.us" tvg-name="fox.ktvu.san.francisco.ca.us", FOX (KTVU) San Francisco CA
-https://tv4.live/api/stream/Rominskimark66@gmail.com/518048/livetv.epg/fox.ktvu.san.francisco.ca.us.m3u8
-#EXTINF:-1 tvg-logo="https://media.tv4.live/nbc.kntv.san.francisco.ca.us.png" group-title="US Local" tvg-id="nbc.kntv.san.francisco.ca.us" tvg-name="nbc.kntv.san.francisco.ca.us", NBC (KNTV) San Francisco CA
-https://tv4.live/api/stream/Rominskimark66@gmail.com/518048/livetv.epg/nbc.kntv.san.francisco.ca.us.m3u8
-#EXTINF:-1 tvg-logo="https://media.tv4.live/cbs.kgmb.honolulu.hi.us.png" group-title="US Local" tvg-id="cbs.kgmb.honolulu.hi.us" tvg-name="cbs.kgmb.honolulu.hi.us", CBS (KGMB) Honolulu HI
-https://tv4.live/api/stream/Rominskimark66@gmail.com/518048/livetv.epg/cbs.kgmb.honolulu.hi.us.m3u8
-#EXTINF:-1 tvg-logo="https://media.tv4.live/fox.khon.honolulu.hi.us.png" group-title="US Local" tvg-id="fox.khon.honolulu.hi.us" tvg-name="fox.khon.honolulu.hi.us", FOX (KHON) Honolulu HI
-https://tv4.live/api/stream/Rominskimark66@gmail.com/518048/livetv.epg/fox.khon.honolulu.hi.us.m3u8
-#EXTINF:-1 tvg-logo="https://media.tv4.live/nbc.khnl.honolulu.hi.us.png" group-title="US Local" tvg-id="nbc.khnl.honolulu.hi.us" tvg-name="nbc.khnl.honolulu.hi.us", NBC (KHNL) Honolulu HI
-https://tv4.live/api/stream/Rominskimark66@gmail.com/518048/livetv.epg/nbc.khnl.honolulu.hi.us.m3u8
